@@ -3,7 +3,7 @@
 valores. Aquí creamos un arreglo de números.*/
 let numeros = [10, 20, 30, 40, 50];  // Arreglo con 5 elementos
 
-// 2. Imprimir el arreglo original
+// 2. Imprimir el arreglo original..
 console.log("Arreglo original:", numeros);
 
 // 3. Acceder a un elemento del arreglo
